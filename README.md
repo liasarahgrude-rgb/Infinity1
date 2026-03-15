@@ -14,12 +14,13 @@ Este repositório foi criado para organizar meus estudos e exercícios práticos
 * Uso de estruturas `if`, `elif` e `else`.
 * Operadores lógicos e de comparação.
  
-### 📙 [Aula 03 - Laços de Repetição](https://github.com/liasarahgrude-rgb/logica-python/tree/main/aula%2003%20-%20Repeti%C3%A7%C3%A3o%20While)
+### 📙 [Aula 03 - Laços de Repetição-While](https://github.com/liasarahgrude-rgb/logica-python/tree/main/aula%2003%20-%20Repeti%C3%A7%C3%A3o%20While)
 * Estruturas de repetição para automação de tarefas.
 * Uso do laço while para repetições baseadas em condições.
 * Criação de validadores de dados (como sistemas de senha).
 * Controle de fluxo em loops.
 
+### 📙 [Aula 03 - Laços de Repetição-While](
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3
 * **Editor de Código:** VS Code (Visual Studio Code)
