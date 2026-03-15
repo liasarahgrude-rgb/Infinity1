@@ -19,9 +19,9 @@ Este repositório foi criado para organizar meus estudos e exercícios práticos
 * Uso do laço while para repetições baseadas em condições.
 * Controle de fluxo em loops.
 
-### 📙 [Aula 04 - Laços de Repetição-For](
-*Função range(): Gerenciamento de intervalos numéricos e controle de repetições determinadas.
-*Iteração de Sequências: Uso do for para percorrer listas, strings e tuplas.
+### 📙 [Aula 04 - Laços de Repetição-For](https://github.com/liasarahgrude-rgb/logica-python/tree/main/aula%2004%20-%20Repeti%C3%A7%C3%A3o%20For)
+* Função range(): Gerenciamento de intervalos numéricos e controle de repetições determinadas.
+* Iteração de Sequências: Uso do for para percorrer listas, strings e tuplas.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3
