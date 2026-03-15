@@ -17,12 +17,11 @@ Este repositório foi criado para organizar meus estudos e exercícios práticos
 ### 📙 [Aula 03 - Laços de Repetição-While](https://github.com/liasarahgrude-rgb/logica-python/tree/main/aula%2003%20-%20Repeti%C3%A7%C3%A3o%20While)
 * Estruturas de repetição indicada para loops infinitos.
 * Uso do laço while para repetições baseadas em condições.
-* Criação de validadores de dados (como sistemas de senha).
 * Controle de fluxo em loops.
 
 ### 📙 [Aula 04 - Laços de Repetição-For](
-*Estrutura de repetição indicada para quando temos parametros.
-*Uso do laço for para repetições baseadas em condições
+*Função range(): Gerenciamento de intervalos numéricos e controle de repetições determinadas.
+*Iteração de Sequências: Uso do for para percorrer listas, strings e tuplas.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3
